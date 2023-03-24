@@ -1,2 +1,1 @@
-# alura-plus
-Curso Alura: Praticando HTML/CSS
+[link do figma](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=tURBC440zTwXjsYh-0)
