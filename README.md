@@ -7,8 +7,16 @@ One course provided by **Alura**, which has **Mônica Hillman** as an instructor
 
 ![Site Preview Screenshot](assets/img/screenshots/screenshot.png)
 
-### <a href="https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=tURBC440zTwXjsYh-0" target="_blank"> Figma Link </a>
+### [Figma Link](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=tURBC440zTwXjsYh-0) 
 
 # Course Concept 
 
+> This time the project name is "Alura Plus", and the idea is to create this site using all that Alura students
+> have learned with other HTML/CSS courses provided by the platform.
+
 # Major Knowledges 
+
+- Practice semantic HTML
+- Practice CSS FlexBox
+- Practice CSS Grids
+- Practice Responsivity
